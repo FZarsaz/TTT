@@ -4,7 +4,7 @@
             Fatemeh Zarsaz
          #Scrum Master:
             Tim Blittersdorf
-         #Dev. groupe:
+         #Dev. group:
             Walaa Al Halabi
             Sally Khout
             Lara Ranta
